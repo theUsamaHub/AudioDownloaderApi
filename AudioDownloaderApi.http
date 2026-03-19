@@ -1,0 +1,6 @@
+@AudioDownloaderApi_HostAddress = http://localhost:5052
+
+GET {{AudioDownloaderApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
